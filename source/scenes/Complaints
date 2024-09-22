@@ -1,0 +1,7 @@
+title: Complaint Box
+subtitle: There's only two places to go and neither have descriptions! You should complain.
+view-if: seen_House = true && seen_Park = true
+
+You write a nasty letter on some paper pulled from the corner of the webpage, and place it into the conveniently placed 'Complaints' box.
+
+Your sense of satisfaction is only slightly dampened by the sound of an incinerator whirring to life inside the box.
