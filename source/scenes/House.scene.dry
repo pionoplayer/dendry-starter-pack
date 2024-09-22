@@ -1,6 +1,7 @@
 title: House
 new-page: true
 tags: places
+on-arrival: seen_House = true
 
 You walk into a house, but the writer doesn't care enough to give it a real description.
 Darn.
