@@ -2,3 +2,6 @@ title: Scene One
 new-page: true
 
 I've edited this one too, but I'm not sure how to edit choices yet.
+
+- @root: Continue...
+- @two: Hey wait you lied to me.
